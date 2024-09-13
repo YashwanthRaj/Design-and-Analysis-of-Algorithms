@@ -1,0 +1,7 @@
+Please follow the submission structure given below:
+i. Problem analysis: Include your question, any assumptions you
+make, and briefly explain your main idea regarding the solution.
+ii. Pseudocode: Include only the pseudocode for your algorithm.
+iii. Time Complexity: Calculate the theoretical time complexity and provide a short explanation.
+iv. Numerical Results: Implement the algorithm presented and then make a table with the following columns: N, Experimental results, Theoretical results, Scaling Constant, and Adjusted Theoretical Results.
+v. Graph: Plot the Experimental and Theoretical results in one graph.
